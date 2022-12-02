@@ -3,7 +3,7 @@
 A full functioning calculator which is developed with the help of reactJS ,CSS and HTML
 
 This calculator has features like :
-1.ADD
+1.ADD \n
 2.SUBTRACT
 3.MULTIPLY
 4.DIVIDE
